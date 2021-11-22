@@ -9,12 +9,12 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204).pdf",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-chacon_and_list2015",
+    "dcat:accessURL": "https://github.com/phlorest/chacon_and_list2015/",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-chacon_and_list2015",
+            "rdf:about": "https://github.com/phlorest/chacon_and_list2015/",
             "rdf:type": "prov:Entity",
-            "dc:created": "3b83fed",
+            "dc:created": "0439bfb",
             "dc:title": "Repository"
         },
         {
