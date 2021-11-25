@@ -8,13 +8,20 @@
     "dc:bibliographicCitation": "Chacon TC, List J-M (2015) Improved computational models of sound change shed light on the history of the Tukanoan languages. Journal of Language Relationship, 3:177\u2013203.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204).pdf",
+    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/phlorest/chacon_and_list2015/",
+    "dc:subject": {
+        "family": "Tucanoan [tuca1253]",
+        "analysis": "parsimony",
+        "scaling": "change"
+    },
+    "dc:title": "Phlorest phylogeny derived from Chacon & List 2015 'Tukanoan (Chacon & List 2015)'",
+    "dcat:accessURL": "https://github.com/phlorest/chacon_and_list2015",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/phlorest/chacon_and_list2015/",
+            "rdf:about": "https://github.com/phlorest/chacon_and_list2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "0439bfb",
+            "dc:created": "3d69189",
             "dc:title": "Repository"
         },
         {
@@ -27,7 +34,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
