@@ -1,6 +1,7 @@
 import pathlib
 
 import phlorest
+from phlorest.nexuslib import newick2nexus
 
 
 class Dataset(phlorest.Dataset):
@@ -9,5 +10,7 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        with self.nexus_summary() as nex:
-            self.add_tree_from_newick(args, self.raw_dir / 'phylogeny_tukanoan.tre', nex, 'summary')
+        args.writer.add_summary(
+            newick2nexus(self.raw_dir.read('phylogeny_tukanoan.tre')),
+            self.metadata,
+            args.log)

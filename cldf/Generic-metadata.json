@@ -21,7 +21,7 @@
         {
             "rdf:about": "https://github.com/phlorest/chacon_and_list2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "3d69189",
+            "dc:created": "852bc9d",
             "dc:title": "Repository"
         },
         {
@@ -34,7 +34,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
