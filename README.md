@@ -1,4 +1,6 @@
-# Dataset chacon_and_list2015
+# Phlorest phylogeny derived from Chacon & List 2015 'Tukanoan (Chacon & List 2015)'
+
+[![CLDF validation](https://github.com/phlorest/chacon_and_list2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/chacon_and_list2015/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -9,6 +11,8 @@ If you use these data please cite
 
 ## Description
 
+
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
 Available online at http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204).pdf
 

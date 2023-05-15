@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Chacon & List 2015 'Tukanoan (Chacon & List 2015)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,20 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Chacon, Thiago Costa"
+        },
+        {
+            "name": "List, Johann-Mattis"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
