@@ -11,17 +11,17 @@
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
-        "family": "Tucanoan [tuca1253]",
+        "family": "Tukanoan",
         "analysis": "parsimony",
         "scaling": "change"
     },
-    "dc:title": "Phlorest phylogeny derived from Chacon & List 2015 'Tukanoan (Chacon & List 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Chacon & List 2015 'Improved computational models of sound change shed light on the history of the Tukanoan languages'",
     "dcat:accessURL": "https://github.com/phlorest/chacon_and_list2015",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/phlorest/chacon_and_list2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "ab38440",
+            "dc:created": "50ea5bb",
             "dc:title": "Repository"
         },
         {

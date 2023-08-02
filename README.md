@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Chacon & List 2015 'Tukanoan (Chacon & List 2015)'
+# Phlorest phylogeny derived from Chacon & List 2015 'Improved computational models of sound change shed light on the history of the Tukanoan languages'
 
 [![CLDF validation](https://github.com/phlorest/chacon_and_list2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/chacon_and_list2015/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Tukanoan language family computed from a parsimony analysis scaled by change.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204).pdf
+Source available online at http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204).pdf
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/chacon_and_list2015/main/summary_tree.svg)
