@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Chacon & List 2015 'Improved computational models of sound change shed light on the history of the Tukanoan languages'
 
 [![CLDF validation](https://github.com/phlorest/chacon_and_list2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/chacon_and_list2015/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8249988.svg)](https://doi.org/10.5281/zenodo.8249988)
 
 ## How to cite
 
