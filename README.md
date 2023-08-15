@@ -14,7 +14,7 @@ If you use these data please cite
 A [Phlorest phylogeny](https://github.com/phlorest) of the Tukanoan language family computed from a parsimony analysis scaled by change.
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
 Source available online at http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204).pdf
 
