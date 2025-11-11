@@ -25,7 +25,8 @@ Source available online at http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204)
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
-
 ## Summary Tree
 
 ![summary](https://raw.githubusercontent.com/phlorest/chacon_and_list2015/main/summary_tree.svg)
+
+[Summary tree visualized with IcyTree](https://icytree.org/?url=https://raw.githubusercontent.com/phlorest/chacon_and_list2015/refs/heads/main/cldf/summary.trees)
