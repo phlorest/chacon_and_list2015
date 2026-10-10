@@ -1,0 +1,326 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1644,
+          0.30416
+        ]
+      },
+      "properties": {
+        "Name": "Bar",
+        "Glottocode": "waim1255",
+        "Glottolog_Name": "Waimaha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.808,
+          0.02193
+        ]
+      },
+      "properties": {
+        "Name": "Bas",
+        "Glottocode": "bara1380",
+        "Glottolog_Name": "Barasana-Eduria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4955,
+          0.58157
+        ]
+      },
+      "properties": {
+        "Name": "Des",
+        "Glottocode": "desa1247",
+        "Glottolog_Name": "Desano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6465,
+          0.06168
+        ]
+      },
+      "properties": {
+        "Name": "Kar",
+        "Glottocode": "cara1272",
+        "Glottolog_Name": "Carapana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3475,
+          0.92316
+        ]
+      },
+      "properties": {
+        "Name": "Kor",
+        "Glottocode": "kore1283",
+        "Glottolog_Name": "Koreguaje"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1939,
+          1.32382
+        ]
+      },
+      "properties": {
+        "Name": "Kub",
+        "Glottocode": "cube1242",
+        "xd_ids": [
+          "xd1369"
+        ],
+        "Glottolog_Name": "Cubeo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.305862,
+          -1.045978
+        ]
+      },
+      "properties": {
+        "Name": "Kue",
+        "Glottocode": "cure1236",
+        "Glottolog_Name": "Kueretu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4926,
+          -2.86315
+        ]
+      },
+      "properties": {
+        "Name": "Mai",
+        "Glottocode": "orej1242",
+        "Glottolog_Name": "Maijiki"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0749,
+          -0.14459
+        ]
+      },
+      "properties": {
+        "Name": "Mak",
+        "Glottocode": "macu1260",
+        "Glottolog_Name": "Macuna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5032,
+          0.50714
+        ]
+      },
+      "properties": {
+        "Name": "Pir",
+        "Glottocode": "pira1254",
+        "Glottolog_Name": "Wa'ikhana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.502483,
+          1.1017
+        ]
+      },
+      "properties": {
+        "Name": "Pis",
+        "Glottocode": "pisa1245",
+        "Glottolog_Name": "Pisamira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5547,
+          -0.459785
+        ]
+      },
+      "properties": {
+        "Name": "Sek",
+        "Glottocode": "seco1241",
+        "Glottolog_Name": "Secoya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0237,
+          0.31733
+        ]
+      },
+      "properties": {
+        "Name": "Sio",
+        "Glottocode": "sion1247",
+        "Glottolog_Name": "Siona-Tetete"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.184,
+          0.436515
+        ]
+      },
+      "properties": {
+        "Name": "Sir",
+        "Glottocode": "siri1274",
+        "Glottolog_Name": "Siriano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3853,
+          -0.59023
+        ]
+      },
+      "properties": {
+        "Name": "Tan",
+        "Glottocode": "tani1257",
+        "Glottolog_Name": "Tanimuca-Retuar\u00e3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5327,
+          0.55582
+        ]
+      },
+      "properties": {
+        "Name": "Tat",
+        "Glottocode": "tatu1247",
+        "Glottolog_Name": "Tatuyo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5763,
+          0.579755
+        ]
+      },
+      "properties": {
+        "Name": "Tuk",
+        "Glottocode": "tuca1252",
+        "xd_ids": [
+          "xd1365"
+        ],
+        "Glottolog_Name": "Tucano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.043515,
+          0.39441
+        ]
+      },
+      "properties": {
+        "Name": "Tuy",
+        "Glottocode": "tuyu1244",
+        "Glottolog_Name": "Tuyuca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5705,
+          1.07554
+        ]
+      },
+      "properties": {
+        "Name": "Wan",
+        "Glottocode": "guan1269",
+        "Glottolog_Name": "Kotiria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0,
+          -0.5
+        ]
+      },
+      "properties": {
+        "Name": "Yup",
+        "Glottocode": "jupu1235",
+        "Glottolog_Name": "Yupua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6955,
+          0.735585
+        ]
+      },
+      "properties": {
+        "Name": "Yur",
+        "Glottocode": "yuru1263",
+        "Glottolog_Name": "Yurut\u00ed"
+      }
+    }
+  ]
+}
