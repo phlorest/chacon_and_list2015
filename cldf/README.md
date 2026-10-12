@@ -12,9 +12,9 @@ property | value
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Generic](http://cldf.clld.org/v1.0/terms.rdf#Generic)
 [dc:identifier](http://purl.org/dc/terms/identifier) | http://www.jolr.ru/files/(170)jlr2015-13-3-4(177-204).pdf
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Tukanoan</dd><dt>analysis</dt><dd>parsimony</dd><dt>scaling</dt><dd>change</dd></dl>
+[dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Tukanoan</dd><dt>analysis</dt><dd>parsimony</dd><dt>scaling</dt><dd>none</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/chacon_and_list2015
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/phlorest/chacon_and_list2015/tree/fb53a40">phlorest/chacon_and_list2015  v1.2-9-gfb53a40</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/phlorest/chacon_and_list2015/tree/94390ab">phlorest/chacon_and_list2015  v1.2-10-g94390ab</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.14.8</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | chacon_and_list2015
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

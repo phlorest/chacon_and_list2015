@@ -7,7 +7,7 @@
     "name": "Improved computational models of sound change shed light on the history of the Tukanoan languages",
     "author": "Chacon & List",
     "year": 2015,
-    "scaling": "change",
+    "scaling": "none",
     "analysis": "parsimony",
     "family": "Tukanoan",
     "artefacts": ["https://doi.org/10.5281/zenodo.45233"],

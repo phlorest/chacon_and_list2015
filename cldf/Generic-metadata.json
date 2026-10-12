@@ -13,7 +13,7 @@
     "dc:subject": {
         "family": "Tukanoan",
         "analysis": "parsimony",
-        "scaling": "change"
+        "scaling": "none"
     },
     "dc:title": "Phlorest phylogeny derived from Chacon & List 2015 'Improved computational models of sound change shed light on the history of the Tukanoan languages'",
     "dcat:accessURL": "https://github.com/phlorest/chacon_and_list2015",
@@ -21,7 +21,7 @@
         {
             "rdf:about": "https://github.com/phlorest/chacon_and_list2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-9-gfb53a40",
+            "dc:created": "v1.2-10-g94390ab",
             "dc:title": "Repository"
         },
         {

@@ -12,7 +12,7 @@ If you use these data please cite
 
 ## Description
 
-A [Phlorest phylogeny](https://github.com/phlorest) of the Tukanoan language family computed from a parsimony analysis scaled by change.
+A [Phlorest phylogeny](https://github.com/phlorest) of the Tukanoan language family computed from a parsimony analysis.
 
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
